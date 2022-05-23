@@ -1,0 +1,7 @@
+{
+  "name": "sushiDeli",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
